@@ -1,12 +1,15 @@
 # Loan Data Exploration
 ## Prosper Loan Data Exploration 
 **Overview**
+
 This project focuses on using Python's data visualization tools to systemicaly explore a Prosper loan dataset for its properties and relationships between variables. The end goal of this project is to create a presentation that communicates these findings to others. The final slide deck can be found in this repo, titled 'presentation_slide_deck.ipynb.'
 
 **About Prosper**
+
 [Prosper](https://www.prosper.com/) is a San Francisco-based, peer-to-peer lender that provides personal loans to borrowers with fair or good credit. One of its subsidiaries, Prosper Funding LLC, operates on a website where individuals can either request to borrow money or invest in personal loans. To qualify applicants, Prosper rates borrowers using a risk-rating system that factors in hundreds of data points, including credit history. Investors use these ratings to decide whether to fund the requested loan. Each loan comes with a three to five year term. Since its founding in 2005, Prosper has originated more than $16 billion in loans and serviced over 980,000 people. 
 
 ## Dataset
+
 The dataset contains information for over 100,000 prosper loans. Each row contains information about a specific loan that was funded through the Prosper marketplace. The DataSet can be found on the [Prosper webpage](https://www.prosper.com/tools/?referral=Spider5) and downloaded [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv). Prosper loan variable definitions can be found [on this page](https://www.prosper.com/Downloads/Services/Documentation/ProsperDataExport_Details.html) for additional context.
 
 ## Software
